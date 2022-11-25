@@ -20,10 +20,9 @@ padding-top: 90px;
   }
 .cols{
     
-    color: aliceblue;
+    color:white;
     background-color: rgb(31, 17, 44);
-    width: 1350px;
-    height: 200px;
+   
     text-align: center;
     padding-top: 30px;
     
@@ -31,9 +30,10 @@ padding-top: 90px;
 }
 .b1{
     background-color: blueviolet;
-    color: aliceblue;
+    color:white;
     width: 130px;
     height: 30px;
+    margin-bottom: 10px;
     text-align: center;
     border: 0ch;
 border-top-left-radius:25px;  
@@ -94,7 +94,7 @@ border-bottom-left-radius:25px;
   padding-top: 150px;
 }
 .button{
-  color: aliceblue;
+  color:white;
   background-color: rgb(45, 13, 73);
    width: 140px;
    height:40px ;
@@ -108,7 +108,7 @@ border-bottom-left-radius:25px;
   
 }
 .modal-header{
-  color: aliceblue;
+  color: white;
   background-color: rgb(45, 15, 73);
   
 }
